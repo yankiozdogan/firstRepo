@@ -1,6 +1,5 @@
 # kodluyoruzilkrepo
 First repository created for FrontEndTraining101
-- update
 
 ## Installation
 Öncelikle projeyi clonelayın.
