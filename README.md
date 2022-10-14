@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
-FirstRepo-FrontEndTraining
-![Lorem Picsum](/src/content/github.png)
+First repository created for FrontEndTraining101
+
 ## Installation
 Öncelikle projeyi clonelayın.
 
