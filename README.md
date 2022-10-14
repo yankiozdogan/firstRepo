@@ -5,7 +5,7 @@ First repository created for FrontEndTraining101
 ## Installation
 Öncelikle projeyi clonelayın.
 
-`git clone https://github.com/yankiozdogan/kodluyoruzilkrepo.git`
+`git clone git@github.com:yankiozdogan/firstRepo.git`
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
